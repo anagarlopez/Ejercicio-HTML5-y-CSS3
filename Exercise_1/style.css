@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: O;
+}
+
+body {
+    margin: 0 30%;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    padding: 3vh;
+}
+
+h2 {
+    background-color: gray;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 1vh;
+}
+
+img {
+    float: left;
+    height: 15vh;
+    display: inline;
+    padding: 1vh 3vh;
+}
+
+p {
+    text-align: justify;
+    margin: 2vh 7%;
+}
